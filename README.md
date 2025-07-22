@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guru Bandike
 - 👀 I’m interested in ... Web Development 
-- 🌱 I’m currently learning ... Redux
+- 🌱 I’m currently learning ... CI/CD
 - 📫 How to reach me ...  guru.bandike@gmail.com
 
 <!---
